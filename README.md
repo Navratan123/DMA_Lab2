@@ -1,6 +1,5 @@
-![screenshort](portrait.png)
-![screenshort_landscape](landscape.png)
+![screenshort](l2 constraint homework.jpg)
+
 GIF
-![gif](vd.gif)
-Tablet Variation
-![image](tab.png)
+![gif](l2-constraint-homework.gif)
+
