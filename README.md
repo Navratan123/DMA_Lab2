@@ -1,4 +1,2 @@
 Landscape
-![screenshot of tablet](tabP.png)
-Challenge
-![screenshot of tablet](challenge.png)
+![image](l2hello_toast.jpg)
